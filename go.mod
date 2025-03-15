@@ -1,3 +1,3 @@
 module levieber.com.br/golang-studies
 
-go 1.24.0
+go 1.24.1
